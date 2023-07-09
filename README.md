@@ -1,4 +1,3 @@
-# Optimizing-Agriculture-Production
 # Optimizing-Agricultural-Production
 
 ### Problem Statement 
